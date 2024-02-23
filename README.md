@@ -1,5 +1,5 @@
-### Hi there 👋
-"Hey there! I'm How, the Full-Stack Maestro 🧙‍♂️. Passionate about coding and living by the motto: 'Code is magic 🪄—everything is solvable.' Welcome to my GitHub realm, where creativity meets code. Let's conquer challenges with keystrokes! 💻✨"
+### Hi there 👋 I'm How, the Full-Stack Maestro 🧙‍♂️. Passionate about coding and living by the motto: 'Code is magic 🪄—everything is solvable.' 
+### Welcome to my GitHub realm, where creativity meets code. Let's conquer challenges with keystrokes! 💻✨"
 
 <!--
 **Howwoh1996/Howwoh1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
