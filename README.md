@@ -3,7 +3,7 @@
 ### Welcome to my GitHub realm, where creativity meets code. Let's conquer challenges with keystrokes! 💻✨"
 
 主要專案：
-- HowToLandTech :
+- HowToLandTech :  
   科技業著陸記 - 一些進入科技業的心得感想等等...
    
 
